@@ -5,10 +5,11 @@ public class Main{                                 // Every line of code that ja
   public static void main(String[] args){          // {} mark beginning and end of class 
     System.out.println("Hello, Java!");            // witha new line
     System.out.print("Hello, World");              // without a line
-    // printf() method 
+    // printf() method
     int a = 45;
     System.out.printf("The no is %d", a);
     // write () method
     System.out.write(65);
+    
   }
 }
