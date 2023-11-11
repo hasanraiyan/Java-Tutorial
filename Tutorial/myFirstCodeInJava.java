@@ -8,7 +8,7 @@ public class Main{                                 // Every line of code that ja
     // printf() method 
     int a = 45;
     System.out.printf("The no is %d", a);
-    // write ()
+    // write () method
     System.out.write(65);
   }
 }
