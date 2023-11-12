@@ -1,6 +1,6 @@
 // Java Math
 
-public class Main {
+public class Java07Math {
   public static void main(String[] args) {
     // java math
     // abs(x) : returns the absolute value of a number
