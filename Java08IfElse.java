@@ -1,6 +1,6 @@
 // Java if ... Else
 // syntax
-public class Main {
+public class Java08IfElse {
   public static void main(String[] args) {
 
     /* if (condition) {
