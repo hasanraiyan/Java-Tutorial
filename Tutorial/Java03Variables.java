@@ -1,5 +1,5 @@
 // java variables- declaration and use
-    public class Main {
+    public class Java03Variables {
       public static void main(String[] args) {
         // Declare and initialize integer 'x' with the value 5.
         int x = 5;
