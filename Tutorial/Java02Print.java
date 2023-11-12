@@ -1,6 +1,6 @@
 // printing a text methoad
 
-public class Main {
+public class Java02Print {
   public static void main(String[] args) {
     // This line prints the text "Hello World!" to the console and adds a new line.
     System.out.println("Hello World!");
