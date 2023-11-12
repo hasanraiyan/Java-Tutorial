@@ -1,5 +1,5 @@
 // Java operators
-public class Main {
+public class Java05Operators {
   public static void main(String[] args) {
     // Arithmetic operators
     // addition operator "+"
