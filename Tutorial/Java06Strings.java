@@ -1,5 +1,5 @@
 // Java String used to store text
-public class Main{
+public class Java06Strings {
   public static void main(String[] args){
     String greeting = "Hello"; // method to declare a string
     String greeting2 = new String("Hello"); // method to declare a string
