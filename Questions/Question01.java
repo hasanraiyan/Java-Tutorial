@@ -1,7 +1,7 @@
 // Question: Print table from 2 to n ?
 import java.util.Scanner;
 
-public class Main{
+public class Question01{
     static void multiply(int n){
         for (int i=1 ; i<11; i++){
 
