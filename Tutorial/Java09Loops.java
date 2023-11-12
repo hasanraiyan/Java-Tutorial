@@ -1,5 +1,5 @@
 // loops in java
-public class javaLec09Loops {
+public class Java09Loops {
   public static void main(String[] args) {
     //Loops in java
     //While loop
@@ -63,3 +63,4 @@ public class javaLec09Loops {
     
   }
 }
+
