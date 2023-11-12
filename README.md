@@ -34,7 +34,6 @@ This is a beginner-friendly Java tutorial repository created by [Your Name] for 
 4. [Prerequisites](#prerequisites)
 5. [How to Use This Repository](#how-to-use-this-repository)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
