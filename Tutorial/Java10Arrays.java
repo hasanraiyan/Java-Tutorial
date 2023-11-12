@@ -1,5 +1,5 @@
 // Java Arrays
-public class JavaLec10JavaArrays {
+public class Java10Arrays {
   public static void main(String[] args) {
     // Java Arrays
     // Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
