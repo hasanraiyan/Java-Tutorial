@@ -1,4 +1,4 @@
-public class Main {
+public class Java04DataTypes {
   public static void main(String[] args) {
     // Declare and initialize a final variable 'a' with the value 10.
     final int a1 = 10;
