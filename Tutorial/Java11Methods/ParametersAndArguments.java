@@ -16,6 +16,7 @@ public class ParametersAndArguments {
     } else {
       return true;
     }
+  }
   public static void main(String[] args) {
     myMethod(5, 5);
     // Outputs 10
