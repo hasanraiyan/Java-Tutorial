@@ -1,0 +1,1 @@
+//Java Scope: In java , variables are only accessible within the block they are defined.
