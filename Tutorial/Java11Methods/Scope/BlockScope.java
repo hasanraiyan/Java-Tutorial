@@ -1,5 +1,5 @@
 // Block Scope: Variables defined inside a block ({}) are only accessible within that block.
-public class Scope {
+public class BlockScope {
   public static void main(String[] args) {
     // code here CANNOT use myNum
     {
@@ -13,4 +13,5 @@ public class Scope {
 
   // code here CANNOT use myNum
   //A block of code may exist on its own or it can belong to an if, while or for statement. In the case of for statements, variables declared in the statement itself are also available inside the block's scope.
+  }
 }
