@@ -23,5 +23,5 @@ To get started with the tutorial, you can clone this repository to your local ma
 
 ```bash
 
-git clone https://github.com/hasanraiyan/java-tutorial.git](https://github.com/hasanraiyan/Java-Tutorial.git)https://github.com/hasanraiyan/Java-Tutorial.git
+git clone https://github.com/hasanraiyan/Java-Tutorial.git
 
